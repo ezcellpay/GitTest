@@ -10,7 +10,7 @@ public class MyActivity extends Activity {
 
     // push changes to github
     // push changes to bitbucket gittest2
-    // push changes 3 to bitbucket
+    // push changes 3 to bitbucket three
 
 
     @Override
