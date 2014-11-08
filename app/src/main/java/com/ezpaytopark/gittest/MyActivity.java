@@ -9,6 +9,8 @@ import android.view.MenuItem;
 public class MyActivity extends Activity {
 
     // push changes to github
+    // push changes to bitbucket
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
