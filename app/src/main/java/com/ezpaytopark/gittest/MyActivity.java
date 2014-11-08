@@ -8,6 +8,8 @@ import android.view.MenuItem;
 
 public class MyActivity extends Activity {
 
+    // push changes to github
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
